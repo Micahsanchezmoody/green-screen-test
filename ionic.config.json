@@ -1,0 +1,8 @@
+{
+  "name": "Green screen test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "0e661f28"
+}
